@@ -21,3 +21,6 @@ you need to get an api key here:
 
 http://openweathermap.org/appid
 
+if you need a bit more advice on it, check out the tutorial to build this bot:
+https://goo.gl/bvMkkl
+
